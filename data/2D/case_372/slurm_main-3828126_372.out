@@ -1,0 +1,125 @@
+Running job #372...
+Path: /scratch/zt1/project/fuge-prj/user/cdiniz/Airfoils/MachAero/Automation/AirfoilAutomation/Studies/Surrogate_Study_11/cases/case_372
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-9o9jnrt1 because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-rzmy_uin because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-q4in1d94 because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-rtpsdzr3 because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-knl4ocue because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-tqh8igme because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-1dbtbq9a because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-4p9viheu because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-rr_c7sh2 because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-xr1q_sav because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-v397e38j because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-b3ky90ns because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-szltrwlf because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-oezljvi3 because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-yfhxzw0g because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-4zu6e3iw because the default path (/home/mdolabuser/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+Matplotlib is building the font cache; this may take a moment.
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+ERROR 7: VSPAERO Viewer Not Found. 
+	Expected here: /home/mdolabuser/packages/OpenVSP/python/openvsp/openvsp/vspviewer
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
+slurmstepd: error: slurm_get_node_energy: Socket timed out on send/recv operation
+slurmstepd: error: _get_joules_task: can't get info from slurmd
