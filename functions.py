@@ -123,14 +123,19 @@ def fit_raw_Bspline(x, y):
     tck, u = splprep([x, y], s=0, k=3)
 
     # Assumption: s=0.7 encompasses point of maximum curvature
+    
     u = np.linspace(0., 1.0, 1000)
     new_points = splev(u, tck, der=0)
     xspline, yspline = new_points[0], new_points[1]
 
+    '''
     d0, d1 = splev(u, tck, der=3)
     idxs = np.argsort(np.abs(d1))[::-1]
     imax = idxs[0]
-
+    '''
+    # Take closest point to (1.0, 0.0) as tip. Note this assumes certain scaling features/etc of raw geometry
+    imax = closest_point(xspline, yspline, 1.0, 0.0)
+    
     xtip, ytip = xspline[imax], yspline[imax]
 
     # Fit entire wing surface
